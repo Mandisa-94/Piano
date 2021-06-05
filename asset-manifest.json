@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Piano/static/css/main.ca9ceba6.chunk.css",
+    "main.js": "/Piano/static/js/main.597a9ff5.chunk.js",
+    "main.js.map": "/Piano/static/js/main.597a9ff5.chunk.js.map",
+    "runtime-main.js": "/Piano/static/js/runtime-main.474ed3f9.js",
+    "runtime-main.js.map": "/Piano/static/js/runtime-main.474ed3f9.js.map",
+    "static/js/2.6824e052.chunk.js": "/Piano/static/js/2.6824e052.chunk.js",
+    "static/js/2.6824e052.chunk.js.map": "/Piano/static/js/2.6824e052.chunk.js.map",
+    "index.html": "/Piano/index.html",
+    "static/css/main.ca9ceba6.chunk.css.map": "/Piano/static/css/main.ca9ceba6.chunk.css.map",
+    "static/js/2.6824e052.chunk.js.LICENSE.txt": "/Piano/static/js/2.6824e052.chunk.js.LICENSE.txt",
+    "static/media/do.wav": "/Piano/static/media/do.a2508143.wav",
+    "static/media/fa.wav": "/Piano/static/media/fa.fdf4ed24.wav",
+    "static/media/la.wav": "/Piano/static/media/la.5351f634.wav",
+    "static/media/mi.wav": "/Piano/static/media/mi.51e5702c.wav",
+    "static/media/re.wav": "/Piano/static/media/re.419c7811.wav",
+    "static/media/si.wav": "/Piano/static/media/si.42883966.wav",
+    "static/media/sol.wav": "/Piano/static/media/sol.e5e79dda.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.474ed3f9.js",
+    "static/js/2.6824e052.chunk.js",
+    "static/css/main.ca9ceba6.chunk.css",
+    "static/js/main.597a9ff5.chunk.js"
+  ]
+}
